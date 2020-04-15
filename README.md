@@ -1,8 +1,10 @@
 <p align="center">
   <img width="70%" src="./public/page2.png"></img>
-  
+</p>
+<p align="center">
   <img width="70%" src="./public/home-page.png"></img>
-  
+</p>
+<p align="center">
   <img width="70%" src="./public/page3.png"></img>
 </p>
 
