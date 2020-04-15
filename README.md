@@ -1,10 +1,10 @@
-<li align="center">
-<img width="70%" src="./public/page2.png"></img>
-
-<img width="70%" src="./public/home-page.png"></img>
-
-<img width="70%" src="./public/page3.png"></img>
-</li>
+<p align="center">
+  <img width="70%" src="./public/page2.png"></img>
+  
+  <img width="70%" src="./public/home-page.png"></img>
+  
+  <img width="70%" src="./public/page3.png"></img>
+</p>
 
 <h1 align="center">WorkshopDev Especial</h1>
 <p align="center">Projeto <strong>Casa Criativa</strong> desenvolvido durante o WorkshopDev Especial da <a href="https://rocketseat.com.br">Rocketseat</a> 🚀💻</p>
