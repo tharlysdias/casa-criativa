@@ -29,7 +29,7 @@ _ps: Se precisar de ajuda para fazer um clone, esse [tutorial aqui](https://help
 2. Altere o diretório (pasta) de trabalho atual para o local em que deseja ter o código do módulo salvo no seu computador.
 3. Faça um clone desse repositório rodando: <br> `git clone https://github.com/tharlysdias/casa-criativa`;
 4. Entre na pasta rodando pelo terminal: `cd casa-criativa`;
-5. Rode `npm` para instalar as dependências do projeto;
+5. Rode `npm i express` para instalar as dependências do projeto;
 6. Rode `npm run dev` para iniciar o servidor de desenvolvimento.
 
 ---
